@@ -6,9 +6,9 @@
   <artifactId>test_jenkinsfile</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-   <properties>
-    <maven.compiler.source>1.6</maven.compiler.source>
-    <maven.compiler.target>1.6</maven.compiler.target>
-  </properties>
+  <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
   
 </project>
